@@ -5,3 +5,5 @@
 ---
 
 ## 最新版
+
+[正誤表PDF（最終更新2026年??月??日）](https://butsurinoatorie.github.io/2026/errata2026.pdf)
